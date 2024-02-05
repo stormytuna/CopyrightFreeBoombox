@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyrightFreeBoombox", "CopyrightFreeBoombox\CopyrightFreeBoombox.csproj", "{D9E8E1A6-78C8-4062-9DC1-7F9424408F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E8E1A6-78C8-4062-9DC1-7F9424408F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E8E1A6-78C8-4062-9DC1-7F9424408F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E8E1A6-78C8-4062-9DC1-7F9424408F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E8E1A6-78C8-4062-9DC1-7F9424408F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5010F7EA-6098-4860-9DD0-7587369ACC99}
+	EndGlobalSection
+EndGlobal
