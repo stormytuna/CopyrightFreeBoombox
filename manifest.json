@@ -1,0 +1,7 @@
+{
+  "name": "CopyrightFreeBoombox",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/stormytuna/CopyrightFreeBoombox",
+  "description": "Copyright Free Boombox removes the copyrighted track from the possible boombox tracks",
+  "dependencies": []
+}
